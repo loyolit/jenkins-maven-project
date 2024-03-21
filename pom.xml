@@ -30,12 +30,12 @@
         <repository>
                 <id>releaseRepo</id>
                 <name>releaseRepo</name>
-                <url>http://54.165.23.52:8081/repository/release-Repo/</url>
+                <url>http://52.206.0.140:8081/repository/release-Repo/</url>
         </repository>
         <snapshotRepository>
                 <id>snapshotRepo</id>
                 <name>snapshotRepo</name>
-                <url>http://54.165.23.52:8081/repository/snapshot-Repo/</url>
+                <url>http://52.206.0.140:8081/repository/snapshot-Repo/</url>
         </snapshotRepository>
 </distributionManagement>
 
